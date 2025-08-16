@@ -1,0 +1,19 @@
+/* src/index.css */
+
+/* Global AppBar styles */
+.my-appbar {
+  background-color: #1976d2; /* MUI default blue */
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.15);
+}
+
+/* Toolbar spacing */
+.my-toolbar {
+  padding: 0 16px;
+}
+
+/* Title styling */
+.my-title {
+  font-weight: 600;
+  font-size: 1.25rem;
+  letter-spacing: 0.5px;
+}
